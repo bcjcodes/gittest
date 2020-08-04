@@ -1,0 +1,7 @@
+a sequence of elements that list to another elements
+could be sorted or unsorted
+
+Arrays are indexed while linked list is linear(one step at a time)
+
+doubly linked list - Each element links to the previous element
+
